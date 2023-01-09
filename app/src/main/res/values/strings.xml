@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Destination</string>
+
+    <string name="Home">الرئيسية</string>
+    <string name="Menu">قائمة الخدمات</string>
+    <string name="search">البحث</string>
+    <string name="SavedLocation">المواقع المحفوظة</string>
+    <string name="Account">الحساب</string>
+
+    <string name="chat">المراسلة</string>
+    <string name="Share_info"> مشاركة المعلومات</string>
+    <string name="Tour">المرشد السياحي </string>
+    <string name="Alternative_route">التنبيهات</string>
+    <string name="inform">معلومات</string>
+    <string name="Call">ارقام الطوارىء</string>
+
+    <string name="crowd">ازدحام</string>
+    <string name="police">وجود شرطة </string>
+    <string name="accident">وجود حادث</string>
+    <string name="construction">إصلاحات</string>
+    <string name="Speed">وجود ساهر</string>
+    <string name="closed">الطرق المغلقة </string>
+
+    <string-array name="sp">
+        <item>ازدحام</item>
+        <item>وجود شرطة</item>
+        <item>وجود حادث</item>
+        <item>إصلاحات</item>
+        <item>وجود ساهر</item>
+        <item>الطرق المغلقة</item>
+    </string-array>
+
+</resources>
