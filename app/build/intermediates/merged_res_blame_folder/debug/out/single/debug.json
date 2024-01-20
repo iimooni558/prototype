@@ -1,0 +1,438 @@
+[
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_back_logout.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\back_logout.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_back_radues_accent_color.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\back_radues_accent_color.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\layout_frag_home.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\layout\\frag_home.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_users_chats.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\layout\\activity_users_chats.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\anim_slide_in_left.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\font_cairo.ttf.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\font\\cairo.ttf"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_crowd.png.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\crowd.png"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_inform.png.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\inform.png"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\anim_move_right_out_activity.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\anim\\move_right_out_activity.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_chat_ui.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\layout\\activity_chat_ui.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\layout_item_nav.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\layout\\item_nav.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn3.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\btn3.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_closed_road.png.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\closed_road.png"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\layout_frag_list.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\layout\\frag_list.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\anim_push_down_out.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\anim\\push_down_out.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\anim_click.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\anim\\click.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\anim_f_fade_in.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\anim\\f_fade_in.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_add_alert.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\layout\\activity_add_alert.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_home.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_logout.png.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn2.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\btn2.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon.gif.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\icon.gif"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_nave_rec.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\nave_rec.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\layout_frag_saved.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\layout\\frag_saved.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\anim_translate.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\anim\\translate.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\anim_recycle_down_from_top.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\anim\\recycle_down_from_top.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\font_sheba.ttf.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\font\\sheba.ttf"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\layout_frag_menu_service.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\layout\\frag_menu_service.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_mic.png.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\mic.png"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\anim_slide_in_right.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_tour.png.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\tour.png"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\layout_frag_account.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\layout\\frag_account.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_call.png.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\call.png"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_edit.png.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\edit.png"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\anim_move_right_in_activity.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\anim\\move_right_in_activity.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\anim_push_out_left.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\anim\\push_out_left.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_alternative_route.png.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\alternative_route.png"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\font_lemonada_light.ttf.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\font\\lemonada_light.ttf"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\anim_slide_out_left.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\font_font1.ttf.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\font\\font1.ttf"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\anim_push_out_right.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\anim\\push_out_right.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\anim_fade_out.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\btn.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\anim_pull_in_right.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\anim\\pull_in_right.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_back_radues_bar.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\back_radues_bar.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\anim_recycle_animation_fall_down.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\anim\\recycle_animation_fall_down.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\anim_slide_out_right.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\anim_recycle_up_from_bottom.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\anim\\recycle_up_from_bottom.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\anim_fade_in_splash.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\anim\\fade_in_splash.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_accident.png.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\accident.png"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\layout_bottom_sheet.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\layout\\bottom_sheet.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_call_hep_numbers.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\layout\\activity_call_hep_numbers.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_inform.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\layout\\activity_inform.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_located.png.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\located.png"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\layout_frag_search.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\layout\\frag_search.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\anim_layout_animation_fall_down.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\anim\\layout_animation_fall_down.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_mail.png.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\mail.png"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\anim_move_left_out_activity.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\anim\\move_left_out_activity.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_toogle.png.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\toogle.png"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\anim_push_down_in.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\anim\\push_down_in.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_construction.png.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\construction.png"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_radues_product.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\radues_product.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_add_event.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\layout\\activity_add_event.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_display_data_map.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\layout\\activity_display_data_map.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo.png.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_mail2.png.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\mail2.png"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\anim_all_news_btn_refresh_gone.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\anim\\all_news_btn_refresh_gone.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\layout_item_chat_conv.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\layout\\item_chat_conv.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_shap_select16.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\shap_select16.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_settings.png.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_chating.png.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\chating.png"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_chat.png.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\chat.png"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\layout_item_menu.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\layout\\item_menu.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_back.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\back.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\anim_move_left_in_activity.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\anim\\move_left_in_activity.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_maps_select.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\layout\\activity_maps_select.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_add_rating.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\layout\\activity_add_rating.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_user.png.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_forget_pass.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\layout\\activity_forget_pass.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\anim_all_news_btn_refresh_visible.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\anim\\all_news_btn_refresh_visible.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menu_send.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\ic_menu_send.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_speed_traps.png.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\speed_traps.png"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\layout_content_home.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\layout\\content_home.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\anim_pull_in_left.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\anim\\pull_in_left.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_back_logout2.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\back_logout2.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_register.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_nave_bar.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\nave_bar.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\anim_alpha.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\anim\\alpha.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\layout_item_users_chat.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\layout\\item_users_chat.xml"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_police_car.png.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\police_car.png"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_lock.png.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\lock.png"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\drawable_share_information.png.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\drawable\\share_information.png"
+    },
+    {
+        "merged": "H:\\Android Projects\\Destination\\app\\build\\intermediates\\merged_res\\debug\\anim_fade_in.xml.flat",
+        "source": "H:\\Android Projects\\Destination\\app\\src\\main\\res\\anim\\fade_in.xml"
+    }
+]
